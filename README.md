@@ -1,4 +1,4 @@
-# Generative_adversarial_networks
+# Generative Adversarial Networks
 
 ## Overview
 
